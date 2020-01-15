@@ -1,0 +1,11 @@
+D:\Automation\Selenium\Round-2\Basic Assertion\bin\Debug\netcoreapp2.1\Basic Assertion.deps.json
+D:\Automation\Selenium\Round-2\Basic Assertion\bin\Debug\netcoreapp2.1\Basic Assertion.runtimeconfig.json
+D:\Automation\Selenium\Round-2\Basic Assertion\bin\Debug\netcoreapp2.1\Basic Assertion.runtimeconfig.dev.json
+D:\Automation\Selenium\Round-2\Basic Assertion\bin\Debug\netcoreapp2.1\Basic Assertion.dll
+D:\Automation\Selenium\Round-2\Basic Assertion\obj\Debug\netcoreapp2.1\Basic Assertion.csprojAssemblyReference.cache
+D:\Automation\Selenium\Round-2\Basic Assertion\obj\Debug\netcoreapp2.1\Basic Assertion.csproj.CoreCompileInputs.cache
+D:\Automation\Selenium\Round-2\Basic Assertion\obj\Debug\netcoreapp2.1\Basic Assertion.AssemblyInfoInputs.cache
+D:\Automation\Selenium\Round-2\Basic Assertion\obj\Debug\netcoreapp2.1\Basic Assertion.AssemblyInfo.cs
+D:\Automation\Selenium\Round-2\Basic Assertion\bin\Debug\netcoreapp2.1\Basic Assertion.pdb
+D:\Automation\Selenium\Round-2\Basic Assertion\obj\Debug\netcoreapp2.1\Basic Assertion.dll
+D:\Automation\Selenium\Round-2\Basic Assertion\obj\Debug\netcoreapp2.1\Basic Assertion.pdb
